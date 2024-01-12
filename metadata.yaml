@@ -1,0 +1,27 @@
+_repo: Pyramids-of-snow_72428
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Metcalfe, Edith
+    gutenberg_agent_id: '56681'
+    url: http://www.gutenberg.org/2009/agents/56681
+description: ''
+gutenberg_issued: '2023-12-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72428'
+language: en
+pgterms:marc905: 20231207164033metcalfe
+pgterms:marc906: '1903'
+pgterms:marc907: gb
+production_note: Al Haines
+publication_note: '  $aLondon :$bWard, Lock & Co., Limited, $c1903.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English fiction -- 20th century'
+- !lcc 'PR'
+- GITenberg
+title: Pyramids of snow
+url: http://www.gutenberg.org/ebooks/72428
