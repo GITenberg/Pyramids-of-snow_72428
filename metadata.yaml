@@ -1,11 +1,16 @@
 _repo: Pyramids-of-snow_72428
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72428-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Metcalfe, Edith
     gutenberg_agent_id: '56681'
     url: http://www.gutenberg.org/2009/agents/56681
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72428#Pyramids-of-snow
 gutenberg_issued: '2023-12-16'
 gutenberg_type: Text
 identifiers:
